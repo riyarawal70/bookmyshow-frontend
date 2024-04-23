@@ -1,0 +1,19 @@
+.seats {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  max-width: fit-content;
+  margin-left: 15px;
+  font-size: larger;
+}
+
+.seats-input {
+  width: 70px;
+  border-radius: 10px;
+  margin-left: 10px;
+  text-align: center;
+  font-size: 17px;
+  border: none !important;
+  padding: 4px;
+}
